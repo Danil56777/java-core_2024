@@ -1,0 +1,18 @@
+{
+  "songs":[
+    {
+      "artist":"4K",
+      "year":"2020",
+      "title":"Number One"
+    },
+    {
+      "artist":"Баста",
+      "year":"2010",
+      "title":"Москва"
+    },
+    {
+      "artist":"Местный",
+      "year":"2013",
+      "title":"Шлюза за дым"}
+  ]
+}
